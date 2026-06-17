@@ -372,7 +372,7 @@ body{
     animation: fin 3s ease 1 alternate both;
     font-family: cursive;
     color:rgb(188, 0, 0);
-    background: linear-gradient(90deg , rgb(255, 117, 186) , crimson);
+    background: linear-gradient(90deg ,white , black);
    background-clip: text;
    -webkit-background-clip: text;
    color: transparent;
@@ -387,7 +387,7 @@ span{
     display: inline-block;
     opacity: 0;
     animation-fill-mode: forwards;
-    color :#ff4da6;
+    color :black;
     text-shadow: 0 0 5px #ff56ab , 0 0 10px #af0057 , 0 0 20px #ff438e;
 }
 span:nth-child(1){

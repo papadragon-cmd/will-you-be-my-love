@@ -370,7 +370,7 @@ body{
     font-size: 1.5em;
     font-weight: 800;
     animation: fin 3s ease 1 alternate both;
-    font-family: cursive;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:rgb(188, 0, 0);
     background: linear-gradient(90deg ,white , black);
    background-clip: text;
@@ -380,7 +380,7 @@ body{
 }
 span{
     z-index: -1;
-    font-family: cursive;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     animation-name: slow;
     animation-duration: 3s;
     animation-timing-function: linear;
